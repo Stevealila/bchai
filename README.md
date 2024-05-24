@@ -10,4 +10,4 @@ pinned: false
 license: mit
 ---
 
-Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
+Play with the [chatbot on HuggingFace](https://kli4yxzpig4ekf6btnzmww.streamlit.app/).
