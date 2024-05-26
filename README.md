@@ -42,6 +42,6 @@ Ensure you have the following installed:
 Start the Streamlit app:
 ```bash
 streamlit run app.py
-
+```
 
 Play with the [chatbot on Streamlit](https://kli4yxzpig4ekf6btnzmww.streamlit.app/).
